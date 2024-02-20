@@ -22,7 +22,26 @@ namespace RoyalCafe_new.Usercontrols
 
         private void ButtonAdd_Click(object sender, EventArgs e)
         {
-            
+            try
+{
+    if (txtSellerID.Text != "" && txtSellerName.Text != "")
+    {
+        qry = "Insert into Seller (SellerID,SellerName)" +
+                "values ('"+txtSellerID.Text+"',''"+txtSellerName.Text+"')";
+                cn.setData(qry);
+    }
+
+    else
+    {
+        MessageBox.Show("Input All Values", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        
+    }
+}
+
+catch (Exception ex)
+{
+    throw ex;
+}
         }
     }
     }
