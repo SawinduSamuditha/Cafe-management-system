@@ -1,0 +1,105 @@
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+D:\GUI testing file\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+D:\Royal Cafe backup\RoyalCafe-new\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UpdateItem.resources
+E:\RoyalCafe-OnEdition\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Delete.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Delete.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UpdateItem.resources
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test3\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Delete.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UpdateItem.resources
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test4\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.AssemblyReference.cache
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Dashboard.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.FormLogin.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Properties.Resources.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddItem.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_AddSeller.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Delete.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_PlaceOrder.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UC_Welcome.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe_new.Usercontrols.UpdateItem.resources
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.GenerateResource.cache
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CoreCompileInputs.cache
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe.config
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.exe
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\bin\Debug\RoyalCafe-new.pdb
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\bin\Debug\Guna.UI2.dll
+E:\RoyalCafe-test-Final\RoyalCafe-new\RoyalCafe-new\obj\Debug\RoyalCafe-new.csproj.CopyComplete

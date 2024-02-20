@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalCafe-new", "RoyalCafe-new\RoyalCafe-new.csproj", "{3267D37D-083D-4BE8-B137-9EE11CDE831E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3267D37D-083D-4BE8-B137-9EE11CDE831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3267D37D-083D-4BE8-B137-9EE11CDE831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3267D37D-083D-4BE8-B137-9EE11CDE831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3267D37D-083D-4BE8-B137-9EE11CDE831E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA416F33-1122-4B52-A672-E9DF89640741}
+	EndGlobalSection
+EndGlobal
